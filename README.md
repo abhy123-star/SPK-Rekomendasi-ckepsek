@@ -1,2 +1,2 @@
-# SPK-Rekomendasi-ckepsek
-Website Sistem Pendukung Keputusan Rekomendasi Calon Kepala Sekolah 
+# spk_saw
+spk saw project
